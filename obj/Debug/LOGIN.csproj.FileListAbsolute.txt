@@ -1,0 +1,10 @@
+C:\Users\ignac\source\repos\log\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\ignac\source\repos\log\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\ignac\source\repos\log\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.Form2.resources
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\ignac\source\repos\log\LOGIN\obj\Debug\LOGIN.pdb
